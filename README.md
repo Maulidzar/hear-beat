@@ -1,6 +1,6 @@
 # hearbeat
 
-Anggota Kelompok 4
+Anggota Kelompok 4 :
 
 - Arya Maulidzar Syahriza Putra (215150200111065)
 - Ramadhan Alfatih (215150200111067)

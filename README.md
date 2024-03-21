@@ -7,3 +7,5 @@ Anggota Kelompok 4 :
 - Nauval Fahreza Attamimi	(215150200111068)
 - Gideon Aji Prakoso (215150207111085)
 - M. Naufal Fawwaz Haryono (215150207111086)
+
+Aplikasi android interaktif yang mengimplementasikan fitur API sensor detak jantung Polar H10.

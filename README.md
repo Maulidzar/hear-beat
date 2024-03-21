@@ -1,4 +1,4 @@
-# hearbeat
+# hear-beat
 
 Anggota Kelompok 4 :
 
